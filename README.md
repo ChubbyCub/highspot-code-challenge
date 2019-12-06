@@ -1,4 +1,4 @@
-*** Highspot Code Challenge Solution ***
+**Highspot Code Challenge Solution**
 
 Instructions to run the app: 
 * In your terminal, go the the project folder.
