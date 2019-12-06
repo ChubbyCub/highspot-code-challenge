@@ -1,3 +1,5 @@
+*** Highspot Code Challenge Solution ***
+
 Instructions to run the app: 
 * In your terminal, go the the project folder.
 * Type the followings in your command line: ruby my_music_app.rb input.json changes.json output.json, in that exact order.
